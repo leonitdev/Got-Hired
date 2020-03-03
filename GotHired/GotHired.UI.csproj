@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6D8C67C-913D-4A1A-BA3F-4D40FC64F6E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GotHired</RootNamespace>
+    <AssemblyName>GotHired</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PersonLib">
+      <HintPath>..\GotHired.Entities\PersonLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusinessProfile.Designer.cs">
+      <DependentUpon>BusinessProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\ApplicationStatistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\ApplicationStatistic.Designer.cs">
+      <DependentUpon>ApplicationStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\BusinessProfileViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\BusinessProfileViewer.Designer.cs">
+      <DependentUpon>BusinessProfileViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\CreateOffer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\CreateOffer.Designer.cs">
+      <DependentUpon>CreateOffer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\JobApplicationComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\JobApplicationComponent.Designer.cs">
+      <DependentUpon>JobApplicationComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\JobApplications.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\JobApplications.Designer.cs">
+      <DependentUpon>JobApplications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\OfferComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\OfferComponent.Designer.cs">
+      <DependentUpon>OfferComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\ProfileViewerComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\ProfileViewerComponent.Designer.cs">
+      <DependentUpon>ProfileViewerComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\AllOffers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\AllOffers.Designer.cs">
+      <DependentUpon>AllOffers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\dataFiltered.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\dataFiltered.Designer.cs">
+      <DependentUpon>dataFiltered.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\filteredData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\filteredData.Designer.cs">
+      <DependentUpon>filteredData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\HomeJobSeeker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\HomeJobSeeker.Designer.cs">
+      <DependentUpon>HomeJobSeeker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\JobSeekerProfile.cs" />
+    <Compile Include="JobSeekerSIde\offerComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\offerComponent.Designer.cs">
+      <DependentUpon>offerComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\OffersAll.Designer.cs">
+      <DependentUpon>OffersAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\ProfileJobSeeker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\ProfileJobSeeker.Designer.cs">
+      <DependentUpon>ProfileJobSeeker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobSeekerSIde\StatisticJobCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobSeekerSIde\StatisticJobCategory.Designer.cs">
+      <DependentUpon>StatisticJobCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedData.cs" />
+    <Compile Include="OfferComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OfferComponent.Designer.cs">
+      <DependentUpon>OfferComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OfferComponenti.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OfferComponenti.Designer.cs">
+      <DependentUpon>OfferComponenti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Registers\BusinessRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registers\BusinessRegister.Designer.cs">
+      <DependentUpon>BusinessRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registers\JobSeekerRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registers\JobSeekerRegister.Designer.cs">
+      <DependentUpon>JobSeekerRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Statistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Statistic.Designer.cs">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registers\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registers\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registers\YourJobOffers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registers\YourJobOffers.Designer.cs">
+      <DependentUpon>YourJobOffers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BusinessProfile.resx">
+      <DependentUpon>BusinessProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\ApplicationStatistic.resx">
+      <DependentUpon>ApplicationStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\BusinessProfileViewer.resx">
+      <DependentUpon>BusinessProfileViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\CreateOffer.resx">
+      <DependentUpon>CreateOffer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\JobApplicationComponent.resx">
+      <DependentUpon>JobApplicationComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\JobApplications.resx">
+      <DependentUpon>JobApplications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\OfferComponent.resx">
+      <DependentUpon>OfferComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\ProfileViewerComponent.resx">
+      <DependentUpon>ProfileViewerComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\AllOffers.resx">
+      <DependentUpon>AllOffers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\dataFiltered.resx">
+      <DependentUpon>dataFiltered.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\filteredData.resx">
+      <DependentUpon>filteredData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\HomeJobSeeker.resx">
+      <DependentUpon>HomeJobSeeker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\offerComponent.resx">
+      <DependentUpon>offerComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\OffersAll.resx">
+      <DependentUpon>OffersAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\ProfileJobSeeker.resx">
+      <DependentUpon>ProfileJobSeeker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobSeekerSIde\StatisticJobCategory.resx">
+      <DependentUpon>StatisticJobCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OfferComponent.resx">
+      <DependentUpon>OfferComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OfferComponenti.resx">
+      <DependentUpon>OfferComponenti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registers\BusinessRegister.resx">
+      <DependentUpon>BusinessRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registers\JobSeekerRegister.resx">
+      <DependentUpon>JobSeekerRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Statistic.resx">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registers\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registers\YourJobOffers.resx">
+      <DependentUpon>YourJobOffers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GotHired.Entities\GotHired.Entities.csproj">
+      <Project>{5921b0ce-1209-4747-aab6-1b00612ee022}</Project>
+      <Name>GotHired.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GotHired.Services\GotHired.Services.csproj">
+      <Project>{a7453038-67c6-46f0-b619-a5166fe23f2d}</Project>
+      <Name>GotHired.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-avatar-png-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon-png-transparent-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-dashboard-computer-icons-organization-business-int-update-button-5ac55ebb5adb01.99289450152288428337221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21247-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21247-2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thin-1086_kpi_dashboard_monitor-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map-space-1000x200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-641422232-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-641422232-612x6121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon-png-transparent-271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bak1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icon-clipart-8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_65726.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resume-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-74-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessProfile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bProfile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prlf.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

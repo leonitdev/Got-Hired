@@ -1,0 +1,9 @@
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\bin\Release\GotHired.Persistance.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\bin\Release\GotHired.Persistance.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\bin\Release\GotHired.Entities.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\bin\Release\GotHired.Entities.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\obj\Release\GotHired.Persistance.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\obj\Release\GotHired.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\obj\Release\GotHired.Persistance.csproj.CopyComplete
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\obj\Release\GotHired.Persistance.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Persistance\obj\Release\GotHired.Persistance.pdb

@@ -1,0 +1,316 @@
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.exe
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Entities.dll
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Services.dll
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Persistance.dll
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Entities.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Services.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.Persistance.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.UI.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.ApplicationStatistic.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.CreateOffer.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.Home.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.JobApplicationComponent.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.JobApplications.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.UI.OfferComponent.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Form1.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.filteredData.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.HomeJobSeeker.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.offerComponent.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.OffersAll.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.StatisticJobCategory.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Properties.Resources.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Registers.BusinessRegister.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Registers.JobSeekerRegister.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Statistic.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Registers.Login.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Registers.YourJobOffers.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.GenerateResource.cache
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.exe
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.exe.config
+C:\Users\leoni\source\repos\GotHired\GotHired\bin\Debug\GotHired.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.CopyComplete
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.AllOffers.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponent.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponenti.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.dataFiltered.resources
+C:\Users\leoni\source\repos\GotHired\GotHired\obj\Debug\GotHired.Dashboard.OfferStatistic.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.exe.config
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.exe
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.pdb
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Entities.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Services.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Persistance.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Entities.pdb
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Services.pdb
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\GotHired.Persistance.pdb
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.UI.csprojAssemblyReference.cache
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.ApplicationStatistic.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.CreateOffer.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.Home.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.JobApplicationComponent.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.JobApplications.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.UI.OfferComponent.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Form1.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.AllOffers.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.dataFiltered.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.filteredData.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.HomeJobSeeker.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.offerComponent.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.OffersAll.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.StatisticJobCategory.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponent.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponenti.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Properties.Resources.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Registers.BusinessRegister.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Registers.JobSeekerRegister.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Statistic.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Registers.Login.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Registers.YourJobOffers.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.GenerateResource.cache
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.UI.csproj.CopyComplete
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.exe
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.pdb
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.BusinessProfile.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.BusinessProfileViewer.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.Dashboard.ProfileViewerComponent.resources
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\netstandard.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.AppContext.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Collections.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Collections.Specialized.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ComponentModel.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Console.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Data.Common.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Globalization.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.Compression.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.FileSystem.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.Pipes.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Linq.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Linq.Expressions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Linq.Parallel.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Linq.Queryable.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Http.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.NameResolution.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Ping.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Requests.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Security.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.Sockets.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Net.WebSockets.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ObjectModel.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Reflection.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Resources.Reader.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Resources.Writer.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Handles.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Claims.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.Principal.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Security.SecureString.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Text.Encoding.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.Tasks.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.Thread.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Threading.Timer.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.ValueTuple.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.XDocument.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.XPath.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\bin\Debug\PersonLib.dll
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.exe.config
+C:\Users\leoni\Desktop\GotHired\GotHired\obj\Debug\GotHired.JobSeekerSIde.ProfileJobSeeker.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.exe.config
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.exe
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.pdb
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\netstandard.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.AppContext.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Collections.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Collections.Specialized.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ComponentModel.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Console.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Data.Common.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Globalization.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.Compression.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.FileSystem.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.Pipes.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Linq.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Linq.Expressions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Linq.Parallel.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Linq.Queryable.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Http.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.NameResolution.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Ping.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Requests.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Security.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.Sockets.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Net.WebSockets.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ObjectModel.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Reflection.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Resources.Reader.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Resources.Writer.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Handles.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Claims.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.Principal.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Security.SecureString.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Text.Encoding.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.Tasks.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.Thread.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Threading.Timer.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.ValueTuple.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.XDocument.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.XPath.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Entities.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Services.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\PersonLib.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Persistance.dll
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Entities.pdb
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Services.pdb
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\bin\Debug\GotHired.Persistance.pdb
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.UI.csprojAssemblyReference.cache
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.exe.config
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.BusinessProfile.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.ApplicationStatistic.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.BusinessProfileViewer.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.CreateOffer.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.Home.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.JobApplicationComponent.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.JobApplications.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.UI.OfferComponent.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Dashboard.ProfileViewerComponent.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Form1.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.AllOffers.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.dataFiltered.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.filteredData.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.HomeJobSeeker.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.offerComponent.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.OffersAll.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.ProfileJobSeeker.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.JobSeekerSIde.StatisticJobCategory.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponent.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Entities.Businesses.OfferComponenti.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Properties.Resources.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Registers.BusinessRegister.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Registers.JobSeekerRegister.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Statistic.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Registers.Login.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.Registers.YourJobOffers.resources
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.UI.csproj.GenerateResource.cache
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.UI.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.UI.csproj.CopyComplete
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.exe
+C:\Users\leoni\Desktop\Riinvest Viti 2\OOP\projekti final oop Got HIRED\GotHired\obj\Debug\GotHired.pdb

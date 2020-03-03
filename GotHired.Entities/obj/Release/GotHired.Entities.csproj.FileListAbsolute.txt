@@ -1,0 +1,7 @@
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\bin\Release\GotHired.Entities.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\bin\Release\GotHired.Entities.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\obj\Release\GotHired.Entities.Businesses.OfferComponent.resources
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\obj\Release\GotHired.Entities.csproj.GenerateResource.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\obj\Release\GotHired.Entities.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\obj\Release\GotHired.Entities.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Entities\obj\Release\GotHired.Entities.pdb

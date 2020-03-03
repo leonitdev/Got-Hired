@@ -1,0 +1,11 @@
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Services.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Services.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Entities.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Persistance.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Entities.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\bin\Release\GotHired.Persistance.pdb
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\obj\Release\GotHired.Services.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\obj\Release\GotHired.Services.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\obj\Release\GotHired.Services.csproj.CopyComplete
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\obj\Release\GotHired.Services.dll
+C:\Users\leoni\source\repos\GotHired\GotHired.Services\obj\Release\GotHired.Services.pdb
